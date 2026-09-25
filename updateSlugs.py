@@ -8,7 +8,7 @@ from google.oauth2.service_account import Credentials
 
 PaymentFunnelOptions = {"No": ["10xTechies", "AI", "AI BootcampPaid", "AI TV", "AI UAE", "AI Unknown", "AI USA", "DivineLane", "DRF",
                         "Excel", "PBI", "PU", "Python", "SMAI", "SQL","AI US"], 
-                        "Yes": ["AI Unknown", "AI Bootcamp", "AI Exotic",  "PU Exotic", "SMAI Exotic"]}
+                        "Yes": ["AI Unknown", "AI Bootcamp", "AI Exotic",  "PU Exotic", "SMAI Exotic", "AI UAE"]}
 
 SPREADSHEET_ID = "1v0UI5B4rkWJm3N8cbqnRCa4olvwV6-h-YC2mafNYnjU"
 SCOPES = ["https://www.googleapis.com/auth/spreadsheets", "https://www.googleapis.com/auth/drive"]
